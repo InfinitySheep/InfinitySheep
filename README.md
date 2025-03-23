@@ -34,7 +34,7 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 ---
 
 ## 📬 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/InfinitySheep)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-anastasi-84913b358)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com/)  
 
