@@ -29,9 +29,8 @@ https://roadmap.sh/frontend?r=frontend-beginner - overall guide to follow my fro
 ---
 
 ## 🏆 Featured Projects  
-🔹 **[Personal Portfolio Website](https://yourportfolio.com/)** – A website to showcase my work  
-🔹 **[Rocket League API Tracker](https://github.com/yourusername/rocketleague-tracker)** – Fetches player stats & ranks  
-🔹 **[AI-Powered Chess Bot](https://github.com/yourusername/chess-bot)** – Uses machine learning for strategy  
+🔹 **[Personal Portfolio Website](https://yourportfolio.com/)** – A website to showcase my work (NOT STARTED)
+🔹 **[Rocket League API Tracker]** – Fetches player stats & ranks (NOT STARTED)
 
 ---
 
