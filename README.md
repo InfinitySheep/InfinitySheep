@@ -11,9 +11,9 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 
 ---
 
-## Learning Timeline
+# Learning Timeline
 
-# HTML
+## HTML
 1. https://www.youtube.com/watch?v=pQN-pnXPaVg
 2. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
