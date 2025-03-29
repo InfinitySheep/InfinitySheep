@@ -14,8 +14,9 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 # Learning Timeline
 
 ## HTML
-1. https://www.youtube.com/watch?v=pQN-pnXPaVg
-2. https://www.freecodecamp.org/learn/2022/responsive-web-design/
+1. https://www.youtube.com/watch?v=pQN-pnXPaVg - Intro to HTMl to build website
+2. https://www.freecodecamp.org/learn/2022/responsive-web-design/ - In depth guide to HTML and CSS use
+3. https://www.w3schools.com/html/html_intro.asp - guide to understand a specific concept
 
 ---
 
