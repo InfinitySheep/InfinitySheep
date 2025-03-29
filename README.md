@@ -29,7 +29,8 @@ https://roadmap.sh/frontend?r=frontend-beginner - overall guide to follow my fro
 ---
 
 ## 🏆 Featured Projects  
-🔹 **[Personal Portfolio Website](https://yourportfolio.com/)** – A website to showcase my work (NOT STARTED).
+🔹 **[Personal Portfolio Website]** – A website to showcase my work (NOT STARTED)
+
 🔹 **[Rocket League API Tracker]** – Fetches player stats & ranks (NOT STARTED)
 
 ---
