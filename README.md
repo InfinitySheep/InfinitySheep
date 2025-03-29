@@ -29,13 +29,13 @@ https://roadmap.sh/frontend?r=frontend-beginner - overall guide to follow my fro
 ---
 
 ## 🏆 Featured Projects  
-🔹 **[Personal Portfolio Website](https://yourportfolio.com/)** – A website to showcase my work (NOT STARTED)
+🔹 **[Personal Portfolio Website](https://yourportfolio.com/)** – A website to showcase my work (NOT STARTED).
 🔹 **[Rocket League API Tracker]** – Fetches player stats & ranks (NOT STARTED)
 
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
 ---
