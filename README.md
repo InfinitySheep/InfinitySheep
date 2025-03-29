@@ -7,7 +7,7 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 - 🎮 **Rocket League Top 5000 Player** | Grand Champion Rank  
 - 💻 **Web Dev & Coding Enthusiast** | Working on personal projects & open source  
 - 🎾 **Tennis Player** | 3-year Varsity, Potential Co-Captain  
-- 🌍 Exploring **AI, Cybersecurity, and Software Development**  
+- 🌍 Exploring **Frontend development and python**  
 
 ---
 
