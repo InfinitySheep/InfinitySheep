@@ -17,7 +17,7 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 1. https://www.youtube.com/watch?v=pQN-pnXPaVg
 2. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-
+---
 
 ## 🔥 My Tech Stack  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
