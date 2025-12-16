@@ -5,7 +5,7 @@
 I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocket League, where every second counts, I love tackling coding challenges that push me to think creatively and improve my skills.  
 
 - 🎮 **Rocket League Top 5000 Player** | Grand Champion Rank  
-- 💻 **Web Dev & Coding Enthusiast** | Working on personal projects & open source  
+- 💻 **Active Python-Project Maker** | Working on personal projects using my pyton skills
 - 🎾 **Tennis Player** | 3-year Varsity, Potential Co-Captain  
 - 🌍 Exploring **Frontend development and python**  
 
