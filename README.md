@@ -25,13 +25,6 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 
 🔹 **[Rocket League API Tracker]** – Fetches player stats & ranks (NOT STARTED)
 
----
-
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-
----
 
 ## 📬 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/InfinitySheep)  
