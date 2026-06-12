@@ -6,7 +6,7 @@ I'm passionate about **coding, gaming, and problem-solving**. Just like in Rocke
 
 - 🎮 **Rocket League Top 5000 Player** | Grand Champion Rank  
 - 💻 **Active Python-Project Maker** | Working on personal projects using my pyton skills
-- 🎾 **Tennis Player** | 3-year Varsity, Potential Co-Captain  
+- 🎾 **Tennis Player** | 4-year High School Varsity Member
 - 🌍 Exploring **Frontend development and python**  
 
 ---
