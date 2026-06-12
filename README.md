@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Matthew Anastasi]  
+# 👋 Hey, I'm Matthew Anastasi  
 
 ### 🚀 Aspiring Computer Science Student | Competitive Gamer  
 
